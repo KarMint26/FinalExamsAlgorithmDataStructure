@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="cn.hutool.json" type="repository">
+    <properties maven-id="cn.hutool:hutool-json:5.8.9" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/hutool-json-5.8.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hutool-core-5.8.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
